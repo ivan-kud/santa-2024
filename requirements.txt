@@ -1,0 +1,10 @@
+accelerate
+huggingface_hub
+ipykernel
+matplotlib
+numpy
+nvitop
+pandas
+sentencepiece==0.1.99
+torch
+transformers==4.45.1

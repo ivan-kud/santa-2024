@@ -1,0 +1,13 @@
+1st example:
+reindeer mistletoe elf gingerbread family advent scrooge chimney fireplace ornament
+PPL=467.99
+
+2nd example:
+reindeer and elf family sleep walk the night scrooge laugh mistletoe jump gingerbread bake ornament give advent fireplace chimney drive
+PPL=598.56 @ tree-depth=9x; top-p=0.997
+reindeer and elf night sleep walk gingerbread bake family laugh ornament give advent fireplace chimney drive jump the scrooge mistletoe
+PPL=624.84 @ tree-depth=10x; top-p=0.99
+reindeer and elf night sleep walk gingerbread bake family laugh the fireplace chimney jump give advent scrooge mistletoe ornament drive
+PPL=632.21 @ tree-depth=11x; top-p=0.98
+reindeer and elf family night sleep walk the gingerbread drive laugh jump bake give advent scrooge chimney fireplace mistletoe ornament
+PPL=637.17 @ tree-depth=12x; top-p=0.97
